@@ -8,13 +8,6 @@ Welcome to the Auction Marketplace Application! This project is a robust auction
 - [Features](#features)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
